@@ -1,2 +1,2 @@
-# vscode-cl-settings
-VSCode的设置
+# VSCode Settings
+VSCode 的设置
