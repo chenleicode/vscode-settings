@@ -34,6 +34,7 @@
         "enableInlineExplain": false
     },
     "diffEditor.ignoreTrimWhitespace": false,
-    "editor.detectIndentation": false
+    "editor.detectIndentation": false,
+    "scm.showHistoryGraph": false
 }
 ```
