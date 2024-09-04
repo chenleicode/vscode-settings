@@ -1,2 +1,3 @@
 # VSCode Settings
-VSCode 的设置
+
+My personal VSCode settings
