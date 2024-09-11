@@ -40,7 +40,7 @@
   "workbench.layoutControl.enabled": false,
   "workbench.editor.enablePreview": false,
   "diffEditor.ignoreTrimWhitespace": false,
-  "scm.showHistoryGraph": false,
+  "files.eol": "\n",
   "files.trimTrailingWhitespace": true,
   "[markdown]": {
     "files.trimTrailingWhitespace": false
@@ -51,6 +51,10 @@
   "prettier.semi": false,
   "prettier.endOfLine": "auto",
   "prettier.printWidth": 100,
-  "prettier.trailingComma": "none"
+  "prettier.trailingComma": "none",
+  "prettier.singleQuote": true,
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  }
 }
 ```
