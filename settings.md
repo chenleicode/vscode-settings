@@ -4,17 +4,29 @@
 {
   "editor.fontSize": 20,
   "editor.tabSize": 2,
-  "workbench.editor.enablePreview": false,
+  "editor.mouseWheelZoom": true,
   "editor.stickyScroll.enabled": false,
   "editor.guides.bracketPairs": "active",
   "editor.detectIndentation": false,
   "editor.minimap.enabled": false,
-  "diffEditor.ignoreTrimWhitespace": false,
-  "scm.showHistoryGraph": false,
-  "editor.mouseWheelZoom": true,
+  "editor.acceptSuggestionOnCommitCharacter": false,
+  "editor.smoothScrolling": true,
+  "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
+  "editor.unicodeHighlight.ambiguousCharacters": false,
   "workbench.layoutControl.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "diffEditor.ignoreTrimWhitespace": false,
+  "files.trimTrailingWhitespace": true,
+
   "liveServer.settings.donotShowInfoMsg": true,
-  "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?"
+  "vue.autoInsert.dotValue": true,
+
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "markdown.preview.markEditorSelection": false,
+  "markdown.preview.fontSize": 18,
+  "markdown.preview.lineHeight": 1.8
 }
 ```
 
