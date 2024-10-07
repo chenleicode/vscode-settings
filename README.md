@@ -1,3 +1,3 @@
 # VSCode Settings
 
-My personal VSCode settings
+My personal VS Code settings
