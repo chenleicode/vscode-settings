@@ -13,20 +13,26 @@
   "editor.smoothScrolling": true,
   "editor.wordSeparators": "`~!@#$%^&*()=+[{]}\\|;:'\",.<>/?",
   "editor.unicodeHighlight.ambiguousCharacters": false,
+
+  "workbench.startupEditor": "none",
   "workbench.layoutControl.enabled": false,
   "workbench.editor.enablePreview": false,
-  "diffEditor.ignoreTrimWhitespace": false,
+
   "files.trimTrailingWhitespace": true,
+  "files.eol": "\n",
+
+  "diffEditor.ignoreTrimWhitespace": false,
+  "explorer.compactFolders": false,
 
   "liveServer.settings.donotShowInfoMsg": true,
   "vue.autoInsert.dotValue": true,
 
-  "[markdown]": {
-    "files.trimTrailingWhitespace": false
-  },
   "markdown.preview.markEditorSelection": false,
   "markdown.preview.fontSize": 18,
-  "markdown.preview.lineHeight": 1.8
+  "markdown.preview.lineHeight": 1.8,
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  }
 }
 ```
 
