@@ -1,5 +1,7 @@
 ## asus
 
+- settings.json
+
 ```json
 {
   "editor.fontSize": 18,

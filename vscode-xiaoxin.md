@@ -1,5 +1,7 @@
 ## lenovo xiaoxin pro 14
 
+- settings.json
+
 ```json
 {
   "editor.fontSize": 20,
@@ -35,5 +37,21 @@
   },
 
   "terminal.integrated.defaultProfile.windows": "PowerShell"
+}
+```
+
+- extensions.json
+
+```json
+{
+  "recommendations": [
+    "Vue.volar",
+    "dbaeumer.vscode-eslint",
+    "esbenp.prettier-vscode",
+    "editorconfig.editor",
+    "mhutchie.git-graph",
+    "ritwickdey.liveserv",
+    "gruntfuggly.todo-tree"
+  ]
 }
 ```
