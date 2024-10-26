@@ -1,3 +1,3 @@
-# VSCode Settings
+VS Code Configuration Files
 
-My personal VS Code settings
+My personal VS Code settings.json, extensions.json
