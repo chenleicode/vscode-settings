@@ -32,6 +32,8 @@
   "markdown.preview.lineHeight": 1.8,
   "[markdown]": {
     "files.trimTrailingWhitespace": false
-  }
+  },
+
+  "terminal.integrated.defaultProfile.windows": "PowerShell"
 }
 ```
