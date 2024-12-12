@@ -19,6 +19,7 @@
   "workbench.startupEditor": "none",
   "workbench.layoutControl.enabled": false,
   "workbench.editor.enablePreview": false,
+  "workbench.navigationControl.enabled": false,
 
   "files.trimTrailingWhitespace": true,
   "files.eol": "\n",
@@ -36,7 +37,10 @@
     "files.trimTrailingWhitespace": false
   },
 
-  "terminal.integrated.defaultProfile.windows": "PowerShell"
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+
+  "git.blame.editorDecoration.enabled": true,
+  "git.blame.statusBarItem.enabled": true
 }
 ```
 
@@ -51,7 +55,10 @@
     "editorconfig.editor",
     "mhutchie.git-graph",
     "ritwickdey.liveserv",
-    "gruntfuggly.todo-tree"
+    "gruntfuggly.todo-tree",
+    "github.copilot",
+    "github.copilot-chat",
+    "antfu.slidev"
   ]
 }
 ```
