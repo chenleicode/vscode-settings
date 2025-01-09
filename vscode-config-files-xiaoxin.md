@@ -17,8 +17,8 @@
   "editor.unicodeHighlight.ambiguousCharacters": false,
 
   "workbench.startupEditor": "none",
-  "workbench.layoutControl.enabled": false,
   "workbench.editor.enablePreview": false,
+  "workbench.layoutControl.enabled": false,
   "workbench.navigationControl.enabled": false,
 
   "files.trimTrailingWhitespace": true,
@@ -40,7 +40,13 @@
   "terminal.integrated.defaultProfile.windows": "PowerShell",
 
   "git.blame.editorDecoration.enabled": true,
-  "git.blame.statusBarItem.enabled": true
+  "git.blame.statusBarItem.enabled": true,
+
+  "emmet.variables": {
+    "lang": "zh-CN"
+  },
+
+  "projectManager.openInNewWindowWhenClickingInStatusBar": true
 }
 ```
 
@@ -58,7 +64,8 @@
     "gruntfuggly.todo-tree",
     "github.copilot",
     "github.copilot-chat",
-    "antfu.slidev"
+    "antfu.slidev",
+    "alefragnani.project-manager"
   ]
 }
 ```
